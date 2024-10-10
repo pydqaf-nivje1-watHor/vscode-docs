@@ -59,5 +59,5 @@ gulp.task('build-dist', (done) => {
     done(build.stderr)
   }
 
-  done()
-})
+  done(
+}
